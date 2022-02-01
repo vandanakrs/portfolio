@@ -72,8 +72,9 @@ import picsart from '../assets/svg/skills/picsart.svg'
 import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
-
+import payroll from '../assets/svg/skills/payroll.svg'
 import canva from '../assets/svg/skills/canva.svg'
+import advexcel from '../assets/svg/skills/advexcel.svg'
 
 
 export const skillsImage = (skill) => {
@@ -145,8 +146,8 @@ export const skillsImage = (skill) => {
             return go;
         case 'java':
             return java;
-        case 'kotlin':
-            return kotlin;
+        case 'advance excel':
+            return advexcel;
         case 'julia':
             return julia;
         case 'matlab':
@@ -163,8 +164,8 @@ export const skillsImage = (skill) => {
             return adobeaudition;
         case 'aws':
             return aws;
-        case 'deno':
-            return deno;
+        case 'payroll management':
+            return payroll;
         case 'django':
             return django;
         case 'firebase':

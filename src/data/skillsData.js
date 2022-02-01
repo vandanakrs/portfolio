@@ -1,13 +1,11 @@
  export const skillsData = [
-    'HTML',
-    'Python',
-    'Java',
-    'Javascript',
-    'CSS',
-    'Django',
-    'Docker',
-    'Git',
-    'Numpy',
+    'Microsoft Office',
+    'Advance Excel',
+    'Photoshop',
+    'Picsart',
+    'Sketch',
+    'Payroll Management',
+
     
 ]
 
