@@ -2,7 +2,7 @@ export const educationData = [
 
     {
         id: 1,
-        institution: 'G L BAJAJ',
+        institution: 'GL Bajaj Institute of Technology & Management, G.Noida',
         course: 'MBA',
         startYear: '2021',
         endYear: '2023'
@@ -10,7 +10,7 @@ export const educationData = [
 
     {
         id: 2,
-        institution: 'Rajendra College, Chapra',
+        institution: 'Jai Prakash University, Chapra',
         course: 'Graduation',
         startYear: '2015',
         endYear: '2018'
